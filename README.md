@@ -1,2 +1,2 @@
 # Web-Dev
-All web related proojects
+All web related projects
